@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{442:function(t,s,i){"use strict";i.r(s);var n={data:function(){return{statistics:i(390)}}},a=i(1),c=Object(a.a)(n,(function(){var t=this.$createElement,s=this._self._c||t;return s("div",[s("div",[s("Statistics",{attrs:{statistics:this.statistics}})],1)])}),[],!1,null,null,null);s.default=c.exports}}]);
